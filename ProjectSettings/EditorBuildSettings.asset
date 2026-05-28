@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main Menu/Main Menu.unity
+    guid: 9ec85895510861644b51e7c80254ad4a
+  - enabled: 1
+    path: Assets/Escenario cocina/Kitchen Scene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Escenario salon de clase/Classroom Scene.unity
+    guid: 3dc243086417e1c4088fd9d3fef21348
+  - enabled: 1
+    path: Assets/Escenario sala/Living room.unity
+    guid: b78a242c063c1da43b970381c3fb488e
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6be1c54dc0701d148859b377a6f60a23, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 27addb837ff90ab458a4f7996064af48, type: 2}
+  m_UseUCBPForAssetBundles: 0
