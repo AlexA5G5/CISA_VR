@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Pause",
+    "maps": [
+        {
+            "name": "XR",
+            "id": "ce2b12cf-9548-4ab3-99af-ab11f6c41d92",
+            "actions": [
+                {
+                    "name": "Pause",
+                    "type": "Button",
+                    "id": "4390becb-caf6-4fde-8965-5eb5bc78f465",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a58dc55e-2cbc-4fe7-98b4-eacd0b5dd804",
+                    "path": "<XRController>{LeftHand}/{SecondaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pause",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
